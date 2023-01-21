@@ -6,3 +6,7 @@
 
 # Demo
 [![IMAGE ALT TEXT](https://educationalliancefinland.com/sites/default/files/styles/product-photos/public/image/e9b7b024-1fff-4db8-be2a-27cbdaa7a5a7.png?itok=oyLZBbSw)](https://drive.google.com/file/d/1SqJE3dkTItPxYZIIUGUwif7TbpagHydb/view "Chemistry VR")
+
+# Donate
+
+[![IMAGE ALT TEXT](https://img.freepik.com/premium-vector/buy-me-coffee-post-design-template-vector-flat-illustration-web-landing-page_556845-260.jpg?w=500)](https://www.buymeacoffee.com/CoolDev4Sure "CoolDev4Sure")
