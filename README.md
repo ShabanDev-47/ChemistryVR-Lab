@@ -9,4 +9,4 @@
 
 # Donate
 
-[![IMAGE ALT TEXT](https://img.freepik.com/premium-vector/buy-me-coffee-post-design-template-vector-flat-illustration-web-landing-page_556845-260.jpg?w=500)](https://www.buymeacoffee.com/CoolDev4Sure "CoolDev4Sure")
+[![IMAGE ALT TEXT](https://img.freepik.com/premium-vector/buy-me-coffee-post-design-template-vector-flat-illustration-web-landing-page_556845-260.jpg?w=450)](https://www.buymeacoffee.com/CoolDev4Sure "CoolDev4Sure")
