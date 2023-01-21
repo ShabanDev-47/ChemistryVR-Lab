@@ -4,5 +4,5 @@
 - Built using Unity 2021.3.6f 
 - Built using Oculus Integeration.
 
-#Demo
-<video src='https://drive.google.com/file/d/1SqJE3dkTItPxYZIIUGUwif7TbpagHydb/view?usp=share_link' width=180/> | <video src='video2.mp4' width=180/>
+# Demo
+[![IMAGE ALT TEXT](https://educationalliancefinland.com/sites/default/files/styles/product-photos/public/image/e9b7b024-1fff-4db8-be2a-27cbdaa7a5a7.png?itok=oyLZBbSw)](https://drive.google.com/file/d/1SqJE3dkTItPxYZIIUGUwif7TbpagHydb/view "Chemistry VR")
